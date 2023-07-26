@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Havriutkin</h1>
-<h3 align="center">A Computer Science student from school of Math of Karazin Kharkiv University🇺🇦, exchange student internship at Georgia Tech</h3>
+<h3 align="center">A junior Computer Science student from School of Math of Karazin Kharkiv University🎓🇺🇦, exchange student internship at Georgia Tech🐝🇺🇸</h3>
 
 - 🔭 I’m currently working on **kinematics of robotics arms via monodromy**
 
