@@ -8,6 +8,8 @@
 - 💬 Ask me about **anything, I am ready to help :)**
 
 - 📫 How to reach me **havriutkin@gmail.com**
+  
+- 📝 Check out some of my articles on Medium: **https://medium.com/@havriutkin**
 
 - ⚡ Fun fact **I don't like coffee ☕🙅**
 
