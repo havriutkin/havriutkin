@@ -12,6 +12,8 @@
 - 📝 Check out some of my articles on Medium: **https://medium.com/@havriutkin**
 
 - ⚡ Fun fact **I don't like coffee ☕🙅**
+  
+- 🇺🇦 Support Ukraine [here](https://u24.gov.ua)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
