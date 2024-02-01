@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Havriutkin</h1>
 <h3 align="center">A junior Computer Science student from School of Math of Karazin Kharkiv University🎓🇺🇦, exchange student internship at Georgia Tech🐝🇺🇸</h3>
 
-- 🔭 I’m currently working on **doppler effect problem**
+- 🔭 I’m currently working on **Pitay - app for asking questions anonymously**
 
 - 👯 I’m looking to collaborate on **anything :)**
 
