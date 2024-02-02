@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Pitay - app for asking questions anonymously**
 
-- 👯 I’m looking to collaborate on **anything :)**
+- 👯 I’m looking to collaborate on **any excited project that pushes you out of the box :)**
 
 - 💬 Ask me about **anything, I am ready to help :)**
 
@@ -11,7 +11,7 @@
   
 - 📝 Check out some of my articles on Medium: **https://medium.com/@havriutkin**
 
-- ⚡ Fun fact **I don't like coffee ☕🙅**
+- ⚡ Fun fact **I don't really like coffee ☕🙅**
   
 - 🇺🇦 Support Ukraine [here](https://u24.gov.ua)
 
