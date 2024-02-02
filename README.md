@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Pitay - app for asking questions anonymously**
 
-- 👯 I’m looking to collaborate on **any excited project that pushes you out of the box :)**
+- 👯 I’m looking to collaborate on **any exciting project that will push me out of the box :)**
 
 - 💬 Ask me about **anything, I am ready to help :)**
 
