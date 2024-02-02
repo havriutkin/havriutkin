@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Pitay - app for asking questions anonymously**
 
+- 📕 I’m currently learning **TypeScript, Socket.io**
+
 - 👯 I’m looking to collaborate on **any exciting project that will push me out of the box :)**
 
 - 💬 Ask me about **anything, I am ready to help :)**
