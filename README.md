@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Havriutkin</h1>
 <h3 align="center">A senior Computer Science student from School of Math of Karazin Kharkiv University🎓🇺🇦, exchange student internship at Georgia Tech🐝🇺🇸</h3>
 
-- 🔭 I’m currently working on **TeamCode - app that helps you find teammates**
+- 🔭 I’m currently working on **Artificial Intelegence and Computer Algebra**
 
-- 📕 I’m currently learning **Java Spring**
+- 📕 I’m currently learning **Nonlinear Algebra**
 
 - 👯 I’m looking to collaborate on **any exciting project that will push me out of the box :)**
 
