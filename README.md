@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Havriutkin</h1>
 <h3 align="center">A senior Computer Science student from School of Math of Karazin Kharkiv University🎓🇺🇦, exchange student internship at Georgia Tech🐝🇺🇸</h3>
 
-- 🔭 I’m currently working on **Artificial Intelegence and Computer Algebra**
+- 🔭 I’m currently working on **Machine Learning and Computer Algebra, Camera Relative Pose Problem**
 
-- 📕 I’m currently learning **Nonlinear Algebra**
+- 📕 I’m currently learning **Nonlinear Algebra, Category Theory, CV**
 
 - 👯 I’m looking to collaborate on **any exciting project that will push me out of the box :)**
 
@@ -12,8 +12,6 @@
 - 📫 How to reach me **havriutkin@gmail.com**
   
 - 📝 Check out some of my articles on Medium: **https://medium.com/@havriutkin**
-
-- ⚡ Fun fact **I don't really like coffee ☕🙅**
   
 - 🇺🇦 Support Ukraine [here](https://u24.gov.ua)
 
