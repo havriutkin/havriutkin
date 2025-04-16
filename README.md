@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Havriutkin</h1>
-<h3 align="center">A senior Computer Science student from School of Math of Karazin Kharkiv University🎓🇺🇦, researcg assistant at Georgia Tech🐝🇺🇸</h3>
+<h3 align="center">A senior Computer Science student from School of Math of Karazin Kharkiv University🎓🇺🇦, research assistant at Georgia Tech🐝🇺🇸</h3>
 
 - 🔭 I’m currently working on **Machine Learning and Computer Algebra, Camera Relative Pose Problem**
 
