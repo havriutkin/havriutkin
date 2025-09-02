@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Havriutkin</h1>
-<h3 align="center">A senior Computer Science student from School of Math of Karazin Kharkiv University🎓🇺🇦, research assistant at Georgia Tech🐝🇺🇸</h3>
+<h3 align="center">M.S. Computer Science at Georgia Tech🐝🇺🇸 | B.S. Computer Science School of Math of Karazin Kharkiv University🎓🇺🇦 | Robotics and Perceptions </h3>
 
-- 🔭 I’m currently working on **Machine Learning and Computer Algebra, Camera Relative Pose Problem**
+- 🔭 I’m currently working on **Robots kinodynamics, Factor graphs, GTDynamics**
 
-- 📕 I’m currently learning **Nonlinear Algebra, Category Theory, CV**
+- 📕 I’m currently learning **Numerical Linear Algebra, Real Time Systems, Computer Vision**
 
-- 👯 I’m looking to collaborate on **any exciting project that will push me out of the box :)**
-
-- 💬 Ask me about **anything, I am ready to help :)**
+- 👯 I’m looking to collaborate on **robotics and autonomous systems projects, ROS simulators, etc.**
 
 - 📫 How to reach me **havriutkin@gmail.com**
   
